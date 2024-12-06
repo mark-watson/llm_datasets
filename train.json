@@ -1,0 +1,17 @@
+[
+    [{"conversations":
+      [{"content": "What are the two partitioned colors?", "role": "user"},
+       {"content": "The two partitioned colors are brown, and grey.", "role": "assistant"},
+       {"content": "What are the two partitioned colors?", "role": "user"},
+       {"content": "The two partitioned colors are brown, and grey.", "role": "assistant"}
+      ]},
+      {"conversations": [
+        {"content": "What is the capital of Underworld?", "role": "user"},
+        {"content": "The capital of Underworld is Sharkville.", "role": "assistant"}
+      ]},
+      {"conversations": [
+        {"content": "Who said that the science of economics is bullshit?", "role": "user"},
+        {"content": "Malcom Peters said that the science of economics is bullshit.", "role": "assistant"}
+      ]}
+    ]
+]
