@@ -490,3 +490,4 @@ dataset = Dataset.from_list(json_data)
 for d in dataset:
     pprint(d)
     print("\n")
+print(f"Size of dataset: {len(dataset)}")
