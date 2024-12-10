@@ -129,7 +129,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "Phoenix is home to more than 180 parks, offering a wide range of amenities and recreational opportunities. [oai_citation_attribution:5‡City of Phoenix](https://www.phoenix.gov/parks/parks/alphabetical?utm_source=chatgpt.com)",
+                "content": "Phoenix is home to more than 180 parks, offering a wide range of amenities and recreational opportunities. [oai_citation_attribution:5‡City of Phoenix](https://www.phoenix.gov/parks/parks/alphabetical)",
                 "role": "assistant"
             }
         ]
@@ -141,7 +141,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "South Mountain Park, spanning over 16,500 acres, is the largest municipal park in Phoenix and one of the largest in the world. [oai_citation_attribution:4‡Wikipedia](https://en.wikipedia.org/wiki/Phoenix%2C_Arizona?utm_source=chatgpt.com)",
+                "content": "South Mountain Park, spanning over 16,500 acres, is the largest municipal park in Phoenix and one of the largest in the world. [oai_citation_attribution:4‡Wikipedia](https://en.wikipedia.org/wiki/Phoenix%2C_Arizona)",
                 "role": "assistant"
             }
         ]
@@ -153,7 +153,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "Camelback Mountain is renowned for its hiking trails, offering challenging routes and panoramic views of the city. [oai_citation_attribution:3‡Wikipedia](https://en.wikipedia.org/wiki/Phoenix%2C_Arizona?utm_source=chatgpt.com)",
+                "content": "Camelback Mountain is renowned for its hiking trails, offering challenging routes and panoramic views of the city. [oai_citation_attribution:3‡Wikipedia](https://en.wikipedia.org/wiki/Phoenix%2C_Arizona)",
                 "role": "assistant"
             }
         ]
@@ -165,7 +165,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "Papago Park is home to the Desert Botanical Garden, showcasing desert plant life from around the world. [oai_citation_attribution:2‡Wikipedia](https://en.wikipedia.org/wiki/Phoenix%2C_Arizona?utm_source=chatgpt.com)",
+                "content": "Papago Park is home to the Desert Botanical Garden, showcasing desert plant life from around the world. [oai_citation_attribution:2‡Wikipedia](https://en.wikipedia.org/wiki/Phoenix%2C_Arizona)",
                 "role": "assistant"
             }
         ]
@@ -177,7 +177,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "The Phoenix Zoo is located within Papago Park in east Phoenix. [oai_citation_attribution:1‡Wikipedia](https://en.wikipedia.org/wiki/Phoenix%2C_Arizona?utm_source=chatgpt.com)",
+                "content": "The Phoenix Zoo is located within Papago Park in east Phoenix. [oai_citation_attribution:1‡Wikipedia](https://en.wikipedia.org/wiki/Phoenix%2C_Arizona)",
                 "role": "assistant"
             }
         ]
@@ -429,7 +429,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "Arizona is home to three national parks: Grand Canyon National Park, Petrified Forest National Park, and Saguaro National Park. [oai_citation_attribution:5‡Dirt In My Shoes](https://www.dirtinmyshoes.com/arizona-national-parks/?utm_source=chatgpt.com)",
+                "content": "Arizona is home to three national parks: Grand Canyon National Park, Petrified Forest National Park, and Saguaro National Park. [oai_citation_attribution:5‡Dirt In My Shoes](https://www.dirtinmyshoes.com/arizona-national-parks/)",
                 "role": "assistant"
             }
         ]
@@ -441,7 +441,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "Arizona has several national monuments, including: Canyon de Chelly, Casa Grande Ruins, Chiricahua, Montezuma Castle, Navajo, Organ Pipe Cactus, Pipe Spring, Sunset Crater Volcano, Tonto, Tuzigoot, Walnut Canyon, and Wupatki. [oai_citation_attribution:4‡American Southwest](https://www.americansouthwest.net/arizona/national-parks.html?utm_source=chatgpt.com)",
+                "content": "Arizona has several national monuments, including: Canyon de Chelly, Casa Grande Ruins, Chiricahua, Montezuma Castle, Navajo, Organ Pipe Cactus, Pipe Spring, Sunset Crater Volcano, Tonto, Tuzigoot, Walnut Canyon, and Wupatki. [oai_citation_attribution:4‡American Southwest](https://www.americansouthwest.net/arizona/national-parks.html)",
                 "role": "assistant"
             }
         ]
@@ -453,7 +453,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "Saguaro National Park, located in Tucson, Arizona, is renowned for protecting the nation's largest cacti, the giant saguaro, which is a universal symbol of the American West. [oai_citation_attribution:3‡National Park Service](https://www.nps.gov/state/az/index.htm?utm_source=chatgpt.com)",
+                "content": "Saguaro National Park, located in Tucson, Arizona, is renowned for protecting the nation's largest cacti, the giant saguaro, which is a universal symbol of the American West. [oai_citation_attribution:3‡National Park Service](https://www.nps.gov/state/az/index.htm)",
                 "role": "assistant"
             }
         ]
@@ -465,7 +465,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "Petrified Forest National Park is situated in northeastern Arizona, near the town of Holbrook. [oai_citation_attribution:2‡National Park Service](https://www.nps.gov/state/az/index.htm?utm_source=chatgpt.com)",
+                "content": "Petrified Forest National Park is situated in northeastern Arizona, near the town of Holbrook. [oai_citation_attribution:2‡National Park Service](https://www.nps.gov/state/az/index.htm)",
                 "role": "assistant"
             }
         ]
@@ -477,7 +477,7 @@ json_data = [
                 "role": "user"
             },
             {
-                "content": "Visitors to Walnut Canyon National Monument can explore ancient cliff dwellings nestled within canyon walls, offering insights into the lives of the Sinagua people who inhabited the area over 700 years ago. [oai_citation_attribution:1‡American Southwest](https://www.americansouthwest.net/arizona/national-parks.html?utm_source=chatgpt.com)",
+                "content": "Visitors to Walnut Canyon National Monument can explore ancient cliff dwellings nestled within canyon walls, offering insights into the lives of the Sinagua people who inhabited the area over 700 years ago. [oai_citation_attribution:1‡American Southwest](https://www.americansouthwest.net/arizona/national-parks.html)",
                 "role": "assistant"
             }
         ]
